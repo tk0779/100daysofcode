@@ -1,0 +1,29 @@
+#canvas1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    
+}
+.controls {
+    position: absolute;
+    z-index: 10;
+    top: 130px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.controls, select, option {
+    font-size: 22px;
+}
+
+.headtext{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*  I learned this tutorial from  https://codepen.io/franksLaboratory/pen/yLEBaLK */
