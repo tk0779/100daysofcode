@@ -232,3 +232,9 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+
+.headtext {
+  text-align: center;
+  color: #fff;
+  text-shadow: 2px 2px #222;
+}
