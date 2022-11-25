@@ -15,3 +15,10 @@ https://htmlpreview.github.io/?https://raw.githubusercontent.com/tk0779/100dayso
 <br/>
 Day15 Round 2 - JS Reference<br/>
 ![day15r2 js reference](https://github.com/tk0779/100daysofcode/blob/main/day15r2-jsreference.png?raaw=true)<br/>
+<br/>
+Day16 - JS Counter <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day16%20-%20JS%20counter/index.html<br/>
+![day16-jscounter](https://user-images.githubusercontent.com/73867117/204024860-46077d77-cd7b-46d1-b7ba-27860ad5c32f.png?raw=true)<br/>
+<br/>
+
+
