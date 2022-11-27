@@ -24,6 +24,10 @@ Day17 - JS Review box<br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day17%20-%20jsReviewBox/index.html<br/>
 ![day17-jsreviewbox](https://github.com/tk0779/100daysofcode/blob/main/da717-jsreviewbox.png?raw=true)<br/>
 <br/>
+Day18 - Navbar <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day18%20-%20navbar/index.html<br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day18%20-%20navbar/day18-navbar.PNG?raw=true)<br/>
+<br/>
 
 
 
