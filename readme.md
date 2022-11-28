@@ -28,6 +28,9 @@ Day18 - Navbar <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day18%20-%20navbar/index.html<br/>
 ![](https://github.com/tk0779/100daysofcode/blob/main/day18%20-%20navbar/day18-navbar.PNG?raw=true)<br/>
 <br/>
-
+Day19 - Start portfolio project<br/>
+tk0779.github.io <br/>
+![day19-startportfolio](https://github.com/tk0779/100daysofcode/blob/main/day19-startportfolioproject-resized.png?raw=true)<br/>
+<br/>
 
 
