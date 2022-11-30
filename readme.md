@@ -36,6 +36,10 @@ Day20 - JS question box<br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day20%20-%20JSquestionbox/index.html <br/>
 !(day20jsquestion)[https://github.com/tk0779/100daysofcode/blob/main/day20-jsqa.PNG?raw=true]<br/>
 <br/>
+Day21 - Mouse Shadow <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day21-%20mouseShadow/index.html<br/>
+![day21-mouseshadow](https://github.com/tk0779/100daysofcode/blob/main/Day21%20-%20Mouse%20Shadow.gif?raw=true)<br/>
+<br/>
 
 
 
