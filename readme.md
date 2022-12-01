@@ -40,6 +40,10 @@ Day21 - Mouse Shadow <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day21-%20mouseShadow/index.html<br/>
 ![day21-mouseshadow](https://github.com/tk0779/100daysofcode/blob/main/Day21%20-%20Mouse%20Shadow.gif?raw=true)<br/>
 <br/>
+Day22- Total VDO time (Tally string with reduce)<br/>
+open console https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/Day22%20-%20total%20VDO%20time/index.html<br/>
+![day22](https://github.com/tk0779/100daysofcode/blob/main/day22.PNG?raw=true)<br/>
+<br/>
 
 
 
