@@ -44,6 +44,9 @@ Day22- Total VDO time (Tally string with reduce)<br/>
 open console https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/Day22%20-%20total%20VDO%20time/index.html<br/>
 ![day22](https://github.com/tk0779/100daysofcode/blob/main/day22.PNG?raw=true)<br/>
 <br/>
+Day23 - FB clone API - sequelize models to database <br/>
+![day23-fbcloneapi](https://github.com/tk0779/100daysofcode/blob/main/day23-fbcloneapi-db-sequelize.png?raw=true)<br/>
+<br/>
 
 
 
