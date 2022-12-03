@@ -47,6 +47,8 @@ open console https://htmlpreview.github.io/?https://github.com/tk0779/100daysofc
 Day23 - FB clone API - sequelize models to database <br/>
 ![day23-fbcloneapi](https://github.com/tk0779/100daysofcode/blob/main/day23-fbcloneapi-db-sequelize.png?raw=true)<br/>
 <br/>
-
+Day24 - Sorting Band Names without articles<br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/Day24-Sorting%20Band%20Names%20without%20articles/index.html <br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day24.PNG?raw=true)<br/><br/>
 
 
