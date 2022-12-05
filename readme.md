@@ -51,4 +51,10 @@ Day24 - Sorting Band Names without articles<br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/Day24-Sorting%20Band%20Names%20without%20articles/index.html <br/>
 ![](https://github.com/tk0779/100daysofcode/blob/main/day24.PNG?raw=true)<br/><br/>
 
+Day25 - My Portfolio slider<br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/Day25.PNG?raw=true)<br/><br/>
+
+Day26 - Automatic slider<br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day26.PNG?raw=true)<br/><br/>
+
 
