@@ -57,4 +57,15 @@ Day25 - My Portfolio slider<br/>
 Day26 - Automatic slider<br/>
 ![](https://github.com/tk0779/100daysofcode/blob/main/day26.PNG?raw=true)<br/><br/>
 
+Day27 - unfinished speech recognition <br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day27-unfinished%20speechrecognition.png?raw=true)<br/>
+<br/>
 
+Day28 - Photo gallery in portfolio <br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day28project.png?raw=true)<br/>
+<br/>
+
+
+Day29 - Speech Recognition<br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day29-speechrecognition.gif?raw=true)<br/>
+<br/>
