@@ -69,3 +69,7 @@ Day28 - Photo gallery in portfolio <br/>
 Day29 - Speech Recognition<br/>
 ![](https://github.com/tk0779/100daysofcode/blob/main/day29-speechrecognition.gif?raw=true)<br/>
 <br/>
+
+Day30 -StickyNav <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/Day30-stickyNav/index.html <br/>
+![](https://github.com/tk0779/100daysofcode/blob/main/day30.PNG?raw=true)<br/><br/>
