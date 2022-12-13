@@ -85,3 +85,7 @@ using HTML, css and Javascript in android studio<br>
 Day33 - text to speech <br>
 https://rawcdn.githack.com/tk0779/100daysofcode/37804c2e0c445574f1b886d8724aee1d25bbab8c/day33%20-%20texttoSpeech/index.html <br>
 !{}(https://github.com/tk0779/100daysofcode/blob/main/day33-text-to-speech.png?raw=true)<br><br>
+
+Day34 - Whack a mole <br>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day34-whack-a-mole/index.html<br>
+!{}(https://github.com/tk0779/100daysofcode/blob/main/day34.gif?raw=true)<br><br>
