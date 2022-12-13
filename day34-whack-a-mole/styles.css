@@ -1,0 +1,115 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  background: url('https://thumbs.dreamstime.com/b/green-grass-seamless-tile-texture-lawn-photographic-background-57503316.jpg') rgb(13, 93, 87);
+ 
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Amatic SC", cursive;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+h1 {
+  text-align: center;
+  font-size: 7rem;
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 4rem;
+
+}
+
+
+
+.score {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0 3rem;
+  line-height: 1;
+  border-radius: 1rem;
+}
+
+.game {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.hole {
+  flex: 1 0 33.33%;
+  overflow: hidden;
+  position: relative;
+}
+
+.hole:after {
+  display: block;
+  background: url("./dirt-cartoon.png") bottom center no-repeat;
+  background-size: contain;
+  content: "";
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  z-index: 2;
+  bottom: -20px;
+}
+
+.mole {
+  background: url("./mole-cartoon.png") bottom center no-repeat;
+  background-size: 50%;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  height: 100%;
+  transition: all 0.4s;
+}
+
+.hole.up .mole {
+  top: 0;
+}
+
+.textcenter{
+    background-color: aliceblue;
+    width: 50vw;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
