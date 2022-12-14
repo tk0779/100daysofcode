@@ -89,3 +89,7 @@ https://rawcdn.githack.com/tk0779/100daysofcode/37804c2e0c445574f1b886d8724aee1d
 Day34 - Whack a mole <br>
 https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day34-whack-a-mole/index.html<br>
 ![](https://github.com/tk0779/100daysofcode/blob/main/day34.gif?raw=true)<br><br>
+
+Day35 - JS Digital Clock <br>
+https://htmlpreview.github.io/?https://github.com/tk0779/100daysofcode/blob/main/day35%20-%20js%20digital%20clock/index.html <br>
+![](https://github.com/tk0779/100daysofcode/blob/main/day35jsclock.png?raw=true) <br> <br>
