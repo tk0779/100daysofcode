@@ -1,0 +1,29 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+}
+.grid {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+  }
+  
+  .grid div {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .snake {
+    background-color: greenyellow;
+  }
+  
+  .apple {
+    background-color: yellow;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
