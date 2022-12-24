@@ -1,0 +1,55 @@
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+.grid {
+    border: 1px solid;
+    height: 600px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .grid div {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .player-one {
+    background-color: red;
+    border-radius: 50px;
+  }
+  
+  .player-two {
+    background-color: blue;
+    border-radius: 50px;
+  }
+
+  .container {
+    margin: auto;
+  
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:20px;
+ 
+  }
+
+  .gameheader{
+    background-color: black;
+    color: rgb(38, 255, 0);
+    width: 700px;
+    text-align: center;
+  }
+
+  .gamebody{
+    background-color: rgb(0, 255, 42);
+    background: repeating-linear-gradient(
+  45deg,
+  #00ff11,
+  #00ff11 10px,
+  #003318 10px,
+  #003318 20px
+);
+    
+  }
